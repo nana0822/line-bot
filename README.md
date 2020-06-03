@@ -11,7 +11,7 @@
 
 # LINE BOTの動作確認
 **・選択肢を選択していくタイプのチャットボット**</br>
-https://gyazo.com/f08083cab69f38e05220e8067dde14a6
+![demo](https://gyazo.com/66bd86ebc110f717701c28c4fb9076dc/raw)
 
 # 使い方
 
